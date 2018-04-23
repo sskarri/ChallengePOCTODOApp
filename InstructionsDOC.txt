@@ -1,0 +1,37 @@
+1. Download zip folder
+
+2. Extract It and save in any of your drive
+
+3. open command prompt -->cmd
+
+4. Navigate to main folder i.e Ur pointer should heading to (Ex: D:/>poc>TaskStreaming>)
+
+5. Run this following commands
+
+ 	1. mvn clean package spring-boot:repackage
+
+	2. java -jar target/poc-1.0.jar
+
+6. open web browser with http://localhost:8080/ChallengePOC/
+
+
+7. login with credentials using
+     
+                        username: shyam
+			password: sss
+
+  I have created two poc's one is for User services which i have created for crud operations
+  another one is for task crud operations both are created by using following technologies
+
+	Angular js,springboot,maven, h2 inmemory DB,spring rest services ,spring security
+
+
+
+// All the shared documents are created by  me only without using any malware third party or other resources
+
+
+Yours sincerely 
+
+shyam satyanarayana k
+
+
